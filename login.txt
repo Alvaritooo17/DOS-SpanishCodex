@@ -1,0 +1,7 @@
+Alvaro@Alvaro
+SpanishCodex@SpanishCodex
+ROOT@ROOT
+ADMIN@ADMIN
+TPX@TPX
+1@1
+DEV@DEV
